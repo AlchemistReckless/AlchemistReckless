@@ -1,4 +1,4 @@
-## Hi there 👋
+# Mabuhay! 👋
 
 <!--
 **AlchemistReckless/AlchemistReckless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm currently exploring what I can do and what I want to do..
+## I'm a Student
+## I'm currently exploring what I can do and what I want to do..
+## I need a job..
